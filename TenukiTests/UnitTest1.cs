@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using Tenuki;
 
 namespace TenukiTests
 {
@@ -8,7 +9,7 @@ namespace TenukiTests
 		[Fact]
 		public void Test1()
 		{
-
+			Position p;
 		}
 	}
 }
